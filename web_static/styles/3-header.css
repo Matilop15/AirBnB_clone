@@ -8,5 +8,8 @@ header {
   background-repeat: no-repeat;
   background-position-y: center;
   background-image: url("../images/logo.png");
-	margin-left: 20px;
+	
+}
+header .logo {
+  margin-left: 20px;
 }
