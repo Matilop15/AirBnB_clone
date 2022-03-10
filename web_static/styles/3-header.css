@@ -4,11 +4,11 @@ header {
   width: 100%;
   border-bottom: 1px solid black;
   display: flex;
-  flex-direction: column;  
+  flex-direction: column;
+  background-position-y: center;
 }
 header .logo {
   background-image: url("../images/logo.png");
 	margin-left: 20px;
 	width: 142px;
-  background-position-y: center;
 }
