@@ -5,6 +5,7 @@ header {
   border-bottom: 1px solid black;
   display: flex;
   flex-direction: column;
+  background-repeat: no-repeat;
   background-position-y: center;
 }
 header .logo {
