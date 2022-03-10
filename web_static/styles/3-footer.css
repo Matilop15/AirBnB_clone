@@ -7,11 +7,9 @@ footer {
   border-top: 1px;
   border-top-style:  solid;
   border-top-color:  black;
-  display: flex;
 }
 footer p {
   text-align: center;
   line-height: 30px;
   margin: 0;
-  color: blueviolet;  
- }
+  }
