@@ -23,6 +23,14 @@
 * How to compute CSS Specificity Value
 * What are Box properties in CSS
 
+## Files
 
+- [0-index.html](https://github.com/Matilop15/AirBnB_clone/blob/master/web_static/0-index.html)
+- [1-index.html](https://github.com/Matilop15/AirBnB_clone/blob/master/web_static/1-index.html)
+- [2-index.html](https://github.com/Matilop15/AirBnB_clone/blob/master/web_static/2-index.html)
+- [3-index.html](://github.com/Matilop15/AirBnB_clone/blob/master/web_static/3-index.html)
+
+## Author
+[Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
 
 python3 -m http.server
