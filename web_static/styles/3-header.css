@@ -7,7 +7,11 @@ header {
   flex-direction: column;  
 }
 header .logo {
+  background-image: url("../images/logo.png");
 	height: 60px;
 	margin-left: 20px;
 	width: 142px;
+  /*Aling logo*/
+  position: relative;
+	top: 50%;
 }
