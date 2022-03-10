@@ -5,7 +5,8 @@ footer {
     height: 60px;
     width: 100%;
     }
-  footer p {
+  .foot {
     text-align: center;
     line-height: 30px;
+    margin: 0;
     }
