@@ -10,5 +10,5 @@ header .logo {
   background-image: url("../images/logo.png");
 	margin-left: 20px;
 	width: 142px;
-  align-items: center;
+  background-position-y: center;
 }
