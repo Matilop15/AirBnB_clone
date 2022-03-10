@@ -8,7 +8,7 @@ footer {
   border-top-style:  solid;
   border-top-color:  black;
 }
-footer p {
+.foot {
   text-align: center;
   line-height: 30px;
   margin: 0;
