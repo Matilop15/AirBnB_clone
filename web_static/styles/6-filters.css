@@ -54,19 +54,36 @@ section.filters {
 .amenities:hover .popover{
     display: block;
 }
-.popover {
-  position: relative;
-  display: none;
-  background-color: #FAFAFA;
-    width: 100%;
-    border: 1px solid #DDDDDD;
-    border-radius: 0 0 4px 4px;
-    list-style: none;
-    padding: 20px 0;
+ul {
+	list-style: none;
 }
-.popover h2 {
-    font-size: 16px;
+
+li {
+	line-height: 25px;
 }
-.popover ul, li {
-    list-style: none;
+
+li.popover-Li {
+	margin-bottom: 20px;
+}
+
+ul.popover {
+	background-color: #FAFAFA;
+	border: 1px solid #DDDDDD;
+	border-radius: 4px;
+	display: none;
+	margin: 22px -30px 0px -30px;
+	padding: 20px 30px;
+	z-index: 99;
+}
+
+ul.popover-amenitis {
+	padding-left: 50px;
+}
+
+ul.popover-li {
+	padding-left: 15px;
+}
+
+h2.popover-state {
+	margin: 0px;
 }
