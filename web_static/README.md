@@ -29,6 +29,12 @@
 - [1-index.html](https://github.com/Matilop15/AirBnB_clone/blob/master/web_static/1-index.html)
 - [2-index.html](https://github.com/Matilop15/AirBnB_clone/blob/master/web_static/2-index.html)
 - [3-index.html](://github.com/Matilop15/AirBnB_clone/blob/master/web_static/3-index.html)
+- [4-index.html](https://github.com/Matilop15/AirBnB_clone/blob/master/web_static/4-index.html)
+- [5-index.html](https://github.com/Matilop15/AirBnB_clone/blob/master/web_static/5-index.html)
+- [6-index.html](https://github.com/Matilop15/AirBnB_clone/blob/master/web_static/6-index.html)
+- [7-index.html](https://github.com/Matilop15/AirBnB_clone/blob/master/web_static/7-index.html)
+- [8-index.html](https://github.com/Matilop15/AirBnB_clone/blob/master/web_static/8-index.html)
+- [100-index.html](https://github.com/Matilop15/AirBnB_clone/blob/master/web_static/100-index.html)
 
 ## Author
 [Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
